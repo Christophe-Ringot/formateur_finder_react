@@ -9,7 +9,7 @@ const ProfilComponent = (props) => {
 
     return ( 
         <>
-            <div className="container">
+            <div className="profil-component">
                 <div className="main-body">
                     <div className="row gutters-sm">
                         <div className="col-md-4 mb-3">
